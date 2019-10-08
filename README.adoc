@@ -1,5 +1,7 @@
 = MKRGPS Library for Arduino =
 
+image:https://github.com/arduino-libraries/Arduino_MKRGPS/workflows/Compile%20Examples/badge.svg["Compile Examples Status", link="https://github.com/arduino-libraries/Arduino_MKRGPS/actions?workflow=Compile+Examples"] image:https://github.com/arduino-libraries/Arduino_MKRGPS/workflows/Spell%20Check/badge.svg["Spell Check Status", link="https://github.com/arduino-libraries/Arduino_MKRGPS/actions?workflow=Spell+Check"]
+
 Allows you to read the location from the GPS on your MKR GPS shield.
 
 This library is based on https://github.com/kosma/minmea[minmea].
